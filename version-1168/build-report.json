@@ -1,0 +1,10 @@
+{
+  "html_files": 4016,
+  "movie_detail_files": 2000,
+  "play_files": 2000,
+  "category_files": 10,
+  "poster_jpg_files": 150,
+  "baidu_code_in_all_html": true,
+  "forbidden_rule_text_found": false,
+  "expected_movies": 2000
+}

@@ -1,0 +1,8 @@
+{
+  "name": "精选电影大全",
+  "short_name": "精选电影大全",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4"
+}
